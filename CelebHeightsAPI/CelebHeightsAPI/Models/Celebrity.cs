@@ -5,9 +5,9 @@
         public class Celebrity
         {
             public Guid Id { get; set; }
-            public string FullName { get; set; }
-            public int HeightCm { get; set; }
-            public byte[] ImageUrl { get; set; }
+            public string Name { get; set; }
+            public int Height { get; set; }
+            public byte[] Image { get; set; }
         }
     }
 

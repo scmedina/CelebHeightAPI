@@ -12,5 +12,10 @@ namespace CelebHeightsAPI.Data
         }
 
         public DbSet<Celebrity> Celebrities { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Celebrity>().ToTable("Celebrities"); // Ensure it matches your table name
+        }
     }
 }

@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\models\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|c:\\users\\steph\\onedrive\\documents\\visual studio 2022\\projects\\celebheightapi\\celebheightsapi\\celebheightsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|c:\\users\\steph\\onedrive\\documents\\visual studio 2022\\projects\\celebheightapi\\celebheightsapi\\celebheightsapi\\views\\celebrities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\views\\celebrities\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|c:\\users\\steph\\onedrive\\documents\\visual studio 2022\\projects\\celebheightapi\\celebheightsapi\\celebheightsapi\\controllers\\celebritiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\controllers\\celebritiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|c:\\users\\steph\\onedrive\\documents\\visual studio 2022\\projects\\celebheightapi\\celebheightsapi\\celebheightsapi\\data\\celebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\data\\celebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|c:\\users\\steph\\onedrive\\documents\\visual studio 2022\\projects\\celebheightapi\\celebheightsapi\\celebheightsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|c:\\users\\steph\\onedrive\\documents\\visual studio 2022\\projects\\celebheightapi\\celebheightsapi\\celebheightsapi\\data\\celebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\data\\celebcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|c:\\users\\steph\\onedrive\\documents\\visual studio 2022\\projects\\celebheightapi\\celebheightsapi\\celebheightsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|c:\\users\\steph\\onedrive\\documents\\visual studio 2022\\projects\\celebheightapi\\celebheightsapi\\celebheightsapi\\controllers\\celebritiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805410BA-16E6-4815-B3DB-146EC4C329AB}|CelebHeightsAPI\\CelebHeightsAPI.csproj|solutionrelative:celebheightsapi\\controllers\\celebritiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\steph\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\CelebHeightAPI\\CelebHeightsAPI\\CelebHeightsAPI\\Views\\Celebrities\\Details.cshtml",
+              "RelativeDocumentMoniker": "CelebHeightsAPI\\Views\\Celebrities\\Details.cshtml",
+              "ToolTip": "C:\\Users\\steph\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\CelebHeightAPI\\CelebHeightsAPI\\CelebHeightsAPI\\Views\\Celebrities\\Details.cshtml",
+              "RelativeToolTip": "CelebHeightsAPI\\Views\\Celebrities\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T21:09:09.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "CelebritiesController.cs",
               "DocumentMoniker": "C:\\Users\\steph\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\CelebHeightAPI\\CelebHeightsAPI\\CelebHeightsAPI\\Controllers\\CelebritiesController.cs",
               "RelativeDocumentMoniker": "CelebHeightsAPI\\Controllers\\CelebritiesController.cs",
@@ -42,8 +59,7 @@
               "RelativeToolTip": "CelebHeightsAPI\\Controllers\\CelebritiesController.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwEcAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T21:42:00.665Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-18T21:42:00.665Z"
             },
             {
               "$type": "Document",
@@ -53,24 +69,20 @@
               "RelativeDocumentMoniker": "CelebHeightsAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\steph\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\CelebHeightAPI\\CelebHeightsAPI\\CelebHeightsAPI\\appsettings.json",
               "RelativeToolTip": "CelebHeightsAPI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-09-18T21:38:38.846Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CelebContext.cs",
               "DocumentMoniker": "C:\\Users\\steph\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\CelebHeightAPI\\CelebHeightsAPI\\CelebHeightsAPI\\Data\\CelebContext.cs",
               "RelativeDocumentMoniker": "CelebHeightsAPI\\Data\\CelebContext.cs",
               "ToolTip": "C:\\Users\\steph\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\CelebHeightAPI\\CelebHeightsAPI\\CelebHeightsAPI\\Data\\CelebContext.cs",
               "RelativeToolTip": "CelebHeightsAPI\\Data\\CelebContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T21:15:31.686Z",
               "EditorCaption": ""
@@ -83,14 +95,14 @@
               "RelativeDocumentMoniker": "CelebHeightsAPI\\Models\\Celebrity.cs",
               "ToolTip": "C:\\Users\\steph\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\CelebHeightAPI\\CelebHeightsAPI\\CelebHeightsAPI\\Models\\Celebrity.cs",
               "RelativeToolTip": "CelebHeightsAPI\\Models\\Celebrity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-18T21:14:10.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\steph\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\CelebHeightAPI\\CelebHeightsAPI\\CelebHeightsAPI\\Program.cs",
               "RelativeDocumentMoniker": "CelebHeightsAPI\\Program.cs",

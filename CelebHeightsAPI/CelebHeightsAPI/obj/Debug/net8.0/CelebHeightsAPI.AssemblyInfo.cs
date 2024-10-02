@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CelebHeightsAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d481ff9864bd266a02aea3f4f3b22bed306f0c1f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa736f059beb35b7c52a0a8de6faeb273b524a0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CelebHeightsAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CelebHeightsAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
